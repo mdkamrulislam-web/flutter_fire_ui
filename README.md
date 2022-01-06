@@ -1,4 +1,4 @@
-# social_media_app
+# Flutter FIre UI
 
 A new Flutter project.
 
