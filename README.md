@@ -1,4 +1,4 @@
-# Flutter FIre UI
+# Flutter Fire UI
 
 A new Flutter project.
 
